@@ -1,0 +1,343 @@
+
+<body class="inter_d7e32889-module__94mdca__variable roboto_mono_955658b9-module__SfQagW__variable">
+<div ><!--$--><!--/$-->
+</div>
+<div class="project-page">
+<div class="detail">
+<div class="detail-hero detail-strip">
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2Fc120cf8bd6c9d7cc3f7653bf77db5a6c6fedb4a5-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 1">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2Fdf80cf45747652b97b2d2668d5330326a268ebd5-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 2">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2Fe1a733375dc151915e809b44af957343533ace76-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 3">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2F1898e0ee5be37174e560ae324dd0372aff8cc727-1440x1439.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 4">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2F50692bf7292aff7ec215d44ab786e3e0917a23ea-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 5">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2Fb8866afd43a588a59cad142a2298baefc810f781-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 6">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2F720397372b85c210584aad5ca45a58eb702274b7-1080x1079.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 7">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2F19bdd4f785713a3f87cda95c3bc6aa5c0c21e2a2-1440x1440.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 8">
+</div>
+<div class="detail-cell">
+<img src="/api/sanity-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fayo3ha0v%2Fproduction%2F22607a6faba2dd59815b8515edb64792fdeb7c50-1080x1079.jpg%3Fw%3D1600%26fit%3Dmax%26fm%3Dwebp%26q%3D80" alt="TotalSports Women's Race frame 9">
+</div>
+<a class="detail-cell detail-next" data-next="1" href="/project/o-studioza">
+<input class="haptic-switch">
+<span class="detail-next-label">next project
+</span>
+<span class="detail-next-name">O_StudioZA
+</span>
+<span class="detail-next-meta">Client: Adidas
+</span>
+</a>
+</div>
+<div class="detail-chrome">
+<header class="detail-header">
+<p class="detail-logo">
+<a href="/">
+<input class="haptic-switch">RS
+<sup>®
+</sup>
+</a>
+</p>
+<div class="detail-title">
+<h1>TotalSports Women's Race
+</h1>
+<p class="detail-sub">Nike
+</p>
+</div>
+<nav class="detail-nav" aria-label="Primary">
+<span class="nav-site-caret">
+</span>
+<div class="detail-nav-works nav-filters">
+<div class="nav-works-row">
+<a href="/">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">works(<!-- -->21<!-- -->)
+</span>
+<span class="roll-face">works(<!-- -->21<!-- -->)
+</span>
+</span>
+</span>
+</a>
+</div>
+<div class="nav-drop nav-drop-hover">
+<a href="/?filter=stills" data-gallery-filter="stills">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">stills(13)
+</span>
+<span class="roll-face">stills(13)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+<a href="/?filter=motion" data-gallery-filter="motion">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">motion(8)
+</span>
+<span class="roll-face">motion(8)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<a href="/about">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">About
+</span>
+<span class="roll-face">About
+</span>
+</span>
+</span>
+</a>
+<a href="mailto:bookings@remyshoots.co.za">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">contact
+</span>
+<span class="roll-face">contact
+</span>
+</span>
+</span>
+</a>
+</nav>
+</header>
+<div class="detail-footer">
+<button class="detail-ctl detail-fullscreen">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">zoom:[off]
+</span>
+<span class="roll-face">zoom:[off]
+</span>
+</span>
+</span>
+</button>
+<div class="detail-ticker">
+<span class="detail-caret">
+</span>
+<div class="detail-count">
+<p>01
+</p>
+<span class="detail-count-rule">
+</span>
+<p class="detail-count-total">09
+</p>
+</div>
+<div class="detail-tick-row">
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group lt-active">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+</div>
+<img class="detail-head" src="/icons/playhead.svg" alt="">
+</div>
+<div class="detail-controls">
+<button class="detail-ctl">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">sound:[<!-- -->off<!-- -->]
+</span>
+<span class="roll-face">sound:[<!-- -->off<!-- -->]
+</span>
+</span>
+</span>
+</button>
+</div>
+</div>
+</div>
+<button class="detail-close detail-close-zoom">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">close
+</span>
+<span class="roll-face">close
+</span>
+</span>
+</span>
+</button>
+<button class="menu-btn detail-menu-btn">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">menu
+</span>
+<span class="roll-face">close
+</span>
+</span>
+</span>
+</button>
+<div class="mobile-menu">
+<nav class="menu-items" aria-label="Primary">
+<a href="/">
+<input class="haptic-switch">works(<!-- -->21<!-- -->)
+</a>
+<a href="/about">
+<input class="haptic-switch">About
+</a>
+<a href="mailto:bookings@remyshoots.co.za">
+<input class="haptic-switch">contact
+</a>
+</nav>
+</div>
+<span class="detail-zoom-hint cursor-hint">
+</span>
+</div>
+</div><!--$--><!--/$-->
+<div class="iris-layer">
+</div><!--$!-->
+<template data-dgst="BAILOUT_TO_CLIENT_SIDE_RENDERING">
+</template><!--/$-->
+</body>
+</html>

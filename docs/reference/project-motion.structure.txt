@@ -1,0 +1,318 @@
+
+<body class="inter_d7e32889-module__94mdca__variable roboto_mono_955658b9-module__SfQagW__variable">
+<div ><!--$--><!--/$-->
+</div>
+<div class="project-page">
+<div class="detail is-motion">
+<div class="detail-hero detail-video">
+<video poster="https://image.mux.com/XYuPYKg02qx12RwoihYglq00kHFCSuj2K0229hRFcBsGAo/thumbnail.webp?time=26&width=1200">
+</video>
+</div>
+<a class="detail-next detail-next-end" href="/project/studio88_branded-x-adidasza">
+<input class="haptic-switch">
+<span class="detail-next-label">next project
+</span>
+<span class="detail-next-name">@studio88_branded x @adidasza
+</span>
+<span class="detail-next-meta">Client: Adidas
+</span>
+</a>
+<div class="detail-chrome">
+<header class="detail-header">
+<p class="detail-logo">
+<a href="/">
+<input class="haptic-switch">RS
+<sup>®
+</sup>
+</a>
+</p>
+<div class="detail-title">
+<h1>Netflix @ Comic Con CPT
+</h1>
+<p class="detail-sub">Netflix
+</p>
+</div>
+<nav class="detail-nav" aria-label="Primary">
+<span class="nav-site-caret">
+</span>
+<div class="detail-nav-works nav-filters">
+<div class="nav-works-row">
+<a href="/">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">works(<!-- -->21<!-- -->)
+</span>
+<span class="roll-face">works(<!-- -->21<!-- -->)
+</span>
+</span>
+</span>
+</a>
+</div>
+<div class="nav-drop nav-drop-hover">
+<a href="/?filter=stills" data-gallery-filter="stills">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">stills(13)
+</span>
+<span class="roll-face">stills(13)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+<a href="/?filter=motion" data-gallery-filter="motion">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">motion(8)
+</span>
+<span class="roll-face">motion(8)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<a href="/about">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">About
+</span>
+<span class="roll-face">About
+</span>
+</span>
+</span>
+</a>
+<a href="mailto:bookings@remyshoots.co.za">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">contact
+</span>
+<span class="roll-face">contact
+</span>
+</span>
+</span>
+</a>
+</nav>
+</header>
+<div class="detail-footer">
+<button class="detail-ctl detail-fullscreen">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">fullscreen:[off]
+</span>
+<span class="roll-face">fullscreen:[off]
+</span>
+</span>
+</span>
+</button>
+<div class="detail-ticker">
+<span class="detail-caret">
+</span>
+<div class="detail-count">
+<p>00:00
+</p>
+<span class="detail-count-rule">
+</span>
+<p class="detail-count-total">01:25
+</p>
+</div>
+<div class="detail-tick-row">
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group lt-active">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+<div class="lt-group">
+<i>xN</i>
+</div>
+</div>
+<img class="detail-head" src="/icons/playhead.svg" alt="">
+</div>
+<div class="detail-controls">
+<button class="detail-ctl">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">sound:[<!-- -->off<!-- -->]
+</span>
+<span class="roll-face">sound:[<!-- -->off<!-- -->]
+</span>
+</span>
+</span>
+</button>
+</div>
+</div>
+</div>
+<button class="detail-close detail-close-zoom">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">close
+</span>
+<span class="roll-face">close
+</span>
+</span>
+</span>
+</button>
+<button class="menu-btn detail-menu-btn">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">menu
+</span>
+<span class="roll-face">close
+</span>
+</span>
+</span>
+</button>
+<div class="mobile-menu">
+<nav class="menu-items" aria-label="Primary">
+<a href="/">
+<input class="haptic-switch">works(<!-- -->21<!-- -->)
+</a>
+<a href="/about">
+<input class="haptic-switch">About
+</a>
+<a href="mailto:bookings@remyshoots.co.za">
+<input class="haptic-switch">contact
+</a>
+</nav>
+</div>
+<span class="detail-play-hint cursor-hint">Click to play
+</span>
+</div>
+</div><!--$--><!--/$-->
+<div class="iris-layer">
+</div><!--$!-->
+<template data-dgst="BAILOUT_TO_CLIENT_SIDE_RENDERING">
+</template><!--/$-->
+</body>
+</html>

@@ -1,0 +1,427 @@
+
+<body class="inter_d7e32889-module__94mdca__variable roboto_mono_955658b9-module__SfQagW__variable">
+<div ><!--$--><!--/$-->
+</div>
+<div class="landing view-slider chrome-slider">
+<header class="chrome" data-reveal="chrome">
+<p class="logo">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">RS
+<sup>®
+</sup>
+</span>
+<span class="roll-face">RS
+<sup>®
+</sup>
+</span>
+</span>
+</span>
+</span>
+</span>
+</p>
+<p class="tagline">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">documenting emotion,
+</span>
+<span class="roll-face">documenting emotion,
+</span>
+</span>
+</span>
+</span>
+</span>
+<br >
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">movement and meaning.
+</span>
+<span class="roll-face">movement and meaning.
+</span>
+</span>
+</span>
+</span>
+</span>
+</p>
+<nav class="nav-right" aria-label="Primary">
+<span class="nav-site-caret is-visible">
+</span>
+<div class="nav-filters">
+<div class="nav-works-row">
+<a href="#works" class="is-current">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">works(21)
+</span>
+<span class="roll-face">works(21)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+<div class="nav-drop">
+<a href="#stills" class="">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">stills(13)
+</span>
+<span class="roll-face">stills(13)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+<a href="#motion" class="">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">motion(8)
+</span>
+<span class="roll-face">motion(8)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="nav-site-group">
+<a href="/about">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">About
+</span>
+<span class="roll-face">About
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+<a class="nav-contact" href="mailto:bookings@remyshoots.co.za">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">contact
+</span>
+<span class="roll-face">contact
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</nav>
+</header>
+<div class="meta-slot meta-index" data-reveal="block">
+<div class="reveal-mask">
+<p class="meta meta-line">
+</p>
+</div>
+</div>
+<div class="meta-slot meta-name" data-reveal="block">
+<div class="reveal-mask">
+<p class="meta meta-line">
+</p>
+</div>
+</div>
+<div class="meta-slot meta-type" data-reveal="block">
+<div class="reveal-mask">
+<p class="meta meta-line">
+</p>
+</div>
+</div>
+<div class="meta-slot meta-tag" data-reveal="block">
+<div class="reveal-mask">
+<p class="meta meta-line">
+</p>
+</div>
+</div>
+<div class="view-toggle" data-reveal="block">
+<button class="is-active">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">slider
+</span>
+<span class="roll-face">slider
+</span>
+</span>
+</span>
+</span>
+</span>
+</button>
+<button class="">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">grid
+</span>
+<span class="roll-face">grid
+</span>
+</span>
+</span>
+</span>
+</span>
+</button>
+<button class="">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">list
+</span>
+<span class="roll-face">list
+</span>
+</span>
+</span>
+</span>
+</span>
+</button>
+<span class="toggle-caret">
+</span>
+</div>
+<div class="trusted" data-reveal="foot">
+<span class="trusted-badge">
+<img class="trusted-logo" alt="" src="/icons/clients/under-armour.svg">
+</span>
+<button class="fisheye-toggle" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">fisheye:<!-- -->[off]
+</span>
+<span class="roll-face">fisheye:<!-- -->[off]
+</span>
+</span>
+</span>
+</button>
+</div>
+<button class="sound-toggle">
+<input class="haptic-switch">
+<span class="reveal-mask">
+<span data-reveal="line">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">sound:<!-- -->[on]
+</span>
+<span class="roll-face">sound:<!-- -->[on]
+</span>
+</span>
+</span>
+</span>
+</span>
+</button>
+<div class="loader">
+<div class="loader-inner">
+<h1 class="loader-title">
+<span class="reveal-mask">
+<span class="loader-line">RemyShoots
+<sup>®
+</sup>
+</span>
+</span>
+</h1>
+<p class="loader-copy">
+<span class="reveal-mask">
+<span class="loader-line">a boutique production studio with
+</span>
+</span>
+<br >
+<span class="reveal-mask">
+<span class="loader-line">unyielding passion for storytelling.
+</span>
+</span>
+</p>
+<div class="loader-actions">
+<button class="loader-enter">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">enter with sound
+</span>
+<span class="roll-face">enter with sound
+</span>
+</span>
+</span>
+</button>
+<button class="loader-enter-quiet">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">[enter without]
+</span>
+<span class="roll-face">[enter without]
+</span>
+</span>
+</span>
+</button>
+</div>
+</div>
+<p class="loader-pct">00%
+</p>
+<div class="loader-strip">
+<div class="loader-ticks">
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group lt-active">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+<div class="lt-group">
+<i>x40</i>
+</div>
+</div>
+<img class="loader-head" src="/icons/playhead.svg" alt="">
+</div>
+</div>
+</div><!--$--><!--/$-->
+<div class="iris-layer">
+</div><!--$!-->
+<template data-dgst="BAILOUT_TO_CLIENT_SIDE_RENDERING">
+</template><!--/$-->
+</body>
+</html>

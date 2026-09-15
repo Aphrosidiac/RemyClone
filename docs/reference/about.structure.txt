@@ -1,0 +1,291 @@
+
+<body class="inter_d7e32889-module__94mdca__variable roboto_mono_955658b9-module__SfQagW__variable">
+<div ><!--$--><!--/$-->
+</div>
+<div class="studio">
+<div class="studio-bg">
+<img alt="" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="100vw" src="/_next/image?url=%2Fimages%2Fstudio-hero.jpg&w=3840&q=75">
+</div>
+<header class="chrome studio-chrome" data-reveal="chrome">
+<p class="logo">
+<a href="/">
+<input class="haptic-switch">RS
+<sup>®
+</sup>
+</a>
+</p>
+<p class="tagline">documenting emotion,
+<br >movement and meaning.
+</p>
+<nav class="nav-right" aria-label="Primary">
+<span class="nav-site-caret is-visible">
+</span>
+<div class="nav-filters">
+<div class="nav-works-row">
+<a href="/" class="nav-works-link">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">works(21)
+</span>
+<span class="roll-face">works(21)
+</span>
+</span>
+</span>
+</a>
+</div>
+<div class="nav-drop nav-drop-hover">
+<a href="/?filter=stills" data-gallery-filter="stills">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">stills(13)
+</span>
+<span class="roll-face">stills(13)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+<a href="/?filter=motion" data-gallery-filter="motion">
+<input class="haptic-switch">
+<span class="reveal-mask nav-drop-mask">
+<span class="nav-drop-reveal">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">motion(8)
+</span>
+<span class="roll-face">motion(8)
+</span>
+</span>
+</span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="nav-site-group">
+<a class="is-current" href="/about">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">About
+</span>
+<span class="roll-face">About
+</span>
+</span>
+</span>
+</a>
+</div>
+<a class="nav-contact" href="mailto:bookings@remyshoots.co.za">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">contact
+</span>
+<span class="roll-face">contact
+</span>
+</span>
+</span>
+</a>
+</nav>
+</header>
+<button class="menu-btn studio-menu-btn" data-reveal="chrome">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">menu
+</span>
+<span class="roll-face">close
+</span>
+</span>
+</span>
+</button>
+<div class="mobile-menu">
+<nav class="menu-items" aria-label="Primary">
+<a href="/">
+<input class="haptic-switch">works(21)
+</a>
+<a class="is-current" href="/about">
+<span class="menu-caret">
+</span>About
+</a>
+<a href="mailto:bookings@remyshoots.co.za">contact
+</a>
+</nav>
+</div>
+<main class="studio-main">
+<h1 class="studio-headline">
+<span class="studio-line-mask">
+<span class="studio-line">multi-award winning
+</span>
+</span> 
+<span class="studio-line-mask">
+<span class="studio-line">production studio.
+</span>
+</span> 
+<span class="studio-line-mask">
+<span class="studio-line">Since ©2016
+</span>
+</span>
+</h1>
+<div class="studio-rail">
+<section class="studio-col studio-about" data-reveal="block">
+<h3>about
+</h3>
+<p>Johannesburg-based production studio passionate about authenticity, craft, and stories that move.
+</p>
+</section>
+<section class="studio-col studio-services" data-reveal="block">
+<h3>Services
+</h3>
+<ul>
+<li>Camera Operating
+</li>
+<li>Photography
+</li>
+<li>Producing
+</li>
+<li>Post Production
+</li>
+<li>Art direction
+</li>
+<li>Creative Direction
+</li>
+</ul>
+</section>
+<section class="studio-col studio-clients" data-reveal="block">
+<h3>featured Clients
+</h3>
+<div class="studio-client-cols">
+<ul>
+<li>under armor
+</li>
+<li>nike
+</li>
+<li>netflix
+</li>
+<li>puma
+</li>
+<li>VANz
+</li>
+<li>Sony
+</li>
+</ul>
+<ul>
+<li>crocs
+</li>
+<li>levis
+</li>
+<li>new balance
+</li>
+<li>redbull
+</li>
+<li>airbnb
+</li>
+<li>warner music group
+</li>
+</ul>
+<ul>
+<li>monster energy
+</li>
+<li>nba
+</li>
+<li>vox media
+</li>
+<li>aston martin
+</li>
+<li>Bloomberg
+</li>
+<li>Addidas
+</li>
+</ul>
+</div>
+</section>
+<div class="studio-trusted" data-reveal="block">
+<span class="trusted-badge">
+<img class="trusted-logo" alt="" src="/icons/clients/under-armour.svg">
+</span>
+</div>
+<footer class="studio-footer">
+<span class="studio-copy" data-reveal="foot">©2026
+</span>
+<a class="studio-credit" href="https://www.arcmarumo.com/" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">site by arc
+</span>
+<span class="roll-face">site by arc
+</span>
+</span>
+</span>
+</a>
+<div class="studio-socials">
+<a class="studio-social studio-social-instagram" href="https://www.instagram.com/remyshoots/" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">instagram
+</span>
+<span class="roll-face">instagram
+</span>
+</span>
+</span>
+</a>
+<a class="studio-social studio-social-facebook" href="https://www.facebook.com/RemyShoots/" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">Facebook
+</span>
+<span class="roll-face">Facebook
+</span>
+</span>
+</span>
+</a>
+<a class="studio-social studio-social-youtube" href="https://www.youtube.com/@RemyShoots" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">Youtube
+</span>
+<span class="roll-face">Youtube
+</span>
+</span>
+</span>
+</a>
+<a class="studio-social studio-social-email" href="mailto:booking@remyshoots.co.za" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">email
+</span>
+<span class="roll-face">Copied
+</span>
+</span>
+</span>
+</a>
+</div>
+<button class="sound-toggle studio-sound" data-reveal="foot">
+<input class="haptic-switch">
+<span class="roll">
+<span class="roll-inner">
+<span class="roll-face">sound:<!-- -->[on]
+</span>
+<span class="roll-face">sound:<!-- -->[on]
+</span>
+</span>
+</span>
+</button>
+</footer>
+</div>
+</main>
+</div><!--$--><!--/$-->
+<div class="iris-layer">
+</div><!--$!-->
+<template data-dgst="BAILOUT_TO_CLIENT_SIDE_RENDERING">
+</template><!--/$-->
+</body>
+</html>
