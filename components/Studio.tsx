@@ -1,7 +1,7 @@
 "use client";
 // About page (module 79356): full-bleed hero, three-line headline, about/services/clients
 // rail, footer with socials (email copies to clipboard) + sound + gestures.
-import { useCallback, useEffect, useRef, useState, useSyncExternalStore, type MouseEvent as ReactMouseEvent } from "react";
+import { Fragment, useCallback, useEffect, useRef, useState, useSyncExternalStore, type MouseEvent as ReactMouseEvent } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import dynamic from "next/dynamic";
@@ -358,12 +358,12 @@ export default function Studio() {
       <main className="studio-main">
         <h1 className="studio-headline">
           {STUDIO_HEADLINE.map((line, i) => (
-            <span key={line}>
+            <Fragment key={line}>
               {i > 0 ? " " : null}
               <span className="studio-line-mask">
                 <span className="studio-line">{line}</span>
               </span>
-            </span>
+            </Fragment>
           ))}
         </h1>
         <div className="studio-rail">
