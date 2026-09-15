@@ -30,6 +30,9 @@ import { createHandInertia } from "@/lib/handInertia";
 import { requestMotionPreview, stopMotionPreview, tickMotionPreview } from "./gl/motionPreview";
 import { ABOUT_HREF, LOGO_MARK, NAV_SITE, TAGLINE } from "@/lib/site";
 
+// the stages are lazy; a set() before they mount is expected, not a defect
+gsap.config({ nullTargetWarn: false });
+
 const SliderView = dynamic(() => import("./gl/SliderView"), { ssr: false });
 const GridView = dynamic(() => import("./gl/GridView"), { ssr: false });
 const ListView = dynamic(() => import("./gl/ListView"), { ssr: false });
