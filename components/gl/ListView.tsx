@@ -87,10 +87,9 @@ function Column({ sim, hiddenRef, onTick }: { sim: React.RefObject<Sim>; hiddenR
     const s = sim.current;
     s.pos += (s.target - s.pos) * C.easeFactor(1000 * dt);
     if (!hiddenRef.current) onTick(s.pos);
-    const r = Math.round(s.pos);
-    const sub = gsap.utils.clamp(-3, 3, Math.round((s.pos - r) * (C.TICK_PITCH / 14)));
-    const t = r * C.TICKS_PER_GROUP + sub;
-    if (!hiddenRef.current && lastTick.current !== null && t !== lastTick.current && Math.abs(t - lastTick.current) <= 3) playTick();
+    // one tick per cell crossed, not per sub-mark
+    const t = Math.round(s.pos);
+    if (!hiddenRef.current && lastTick.current !== null && t !== lastTick.current && Math.abs(t - lastTick.current) <= 1) playTick();
     lastTick.current = t;
   });
   return (

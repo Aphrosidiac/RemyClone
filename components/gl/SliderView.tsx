@@ -136,11 +136,9 @@ function Strip({ sim, hiddenRef, onTick }: { sim: React.RefObject<Sim>; hiddenRe
     }
     s.pos += (s.target - s.pos) * C.easeFactor(1000 * dt);
     if (!hiddenRef.current) onTick(s.pos);
-    const r = Math.round(s.pos);
-    const frac = s.pos - r;
-    const sub = gsap.utils.clamp(-3, 3, Math.round(frac * (C.TICK_PITCH / 14)));
-    const t = r * C.TICKS_PER_GROUP + sub;
-    if (!hiddenRef.current && lastTick.current !== null && t !== lastTick.current && Math.abs(t - lastTick.current) <= 3) playTick();
+    // one tick per cell crossed (the reference ticks on every one of the 7 sub-marks — far too busy)
+    const t = Math.round(s.pos);
+    if (!hiddenRef.current && lastTick.current !== null && t !== lastTick.current && Math.abs(t - lastTick.current) <= 1) playTick();
     lastTick.current = t;
   });
   return (
