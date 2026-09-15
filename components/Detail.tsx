@@ -134,9 +134,10 @@ export default function Detail({ ref, project, next, href, works, homeFilters, n
       gsap.fromTo(chrome.current, { opacity: 0 }, { opacity: 1, duration: ENTRANCE_DURATION, ease: ENTRANCE_EASE });
     }
     if (isMotion) {
+      // keep the poster until the visitor presses play (a seek would swap in the first frame)
       const v = video.current;
       if (v) {
-        v.currentTime = 0;
+        if (v.currentTime > 0) v.currentTime = 0;
         root.current?.classList.add("is-paused");
       }
     } else gsap.to(nextOpacity, { current: 1, duration: 0.6, ease: "power2.out", delay: 0.1 });
@@ -727,7 +728,9 @@ export default function Detail({ ref, project, next, href, works, homeFilters, n
           ref={videoWrap}
           onClick={() => {
             const v = video.current;
-            if (v) v.paused ? v.play().catch(() => {}) : v.pause();
+            if (!v) return;
+            if (v.paused) v.play().catch(() => {});
+            else v.pause();
           }}
         >
           <video ref={video} src={project.video} poster={project.image || undefined} muted playsInline loop preload={compact ? "metadata" : "auto"} />

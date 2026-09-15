@@ -32,6 +32,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   const i = projects.findIndex((x) => x.slug === slug);
   if (i < 0) notFound();
   const project = projects[i];
-  const next = projects[(i + 1) % projects.length];
+  // the next project is the next one of the same kind (stills follow stills, films follow films)
+  const kin = projects.filter((p) => p.type === project.type);
+  const k = kin.findIndex((p) => p.slug === slug);
+  const next = kin.length > 1 ? kin[(k + 1) % kin.length] : null;
   return <ProjectPage project={project} next={next} works={projects.length} />;
 }

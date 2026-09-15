@@ -8,7 +8,7 @@ export const SITE_URL = "http://localhost:3150";
 
 export const ABOUT_HREF = "/about";
 export const NAV_SITE = [
-  { label: "about", href: ABOUT_HREF },
+  { label: "About", href: ABOUT_HREF },
   { label: "contact", href: `mailto:${CONTACT_EMAIL}` },
 ];
 export const STUDIO_SOCIALS = [

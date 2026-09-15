@@ -27,7 +27,7 @@ import { isSoundEnabled, playShutter, playTick, setSoundEnabled } from "@/lib/so
 import { tapHaptic } from "@/lib/haptic";
 import { clearPendingGalleryFilter, resolvePendingNavFilter, scrubGalleryFilterFromUrl, type Filter } from "@/lib/galleryFilter";
 import { createHandInertia } from "@/lib/handInertia";
-import { isMotionPreviewPlaying, requestMotionPreview, stopMotionPreview, tickMotionPreview } from "./gl/motionPreview";
+import { requestMotionPreview, stopMotionPreview, tickMotionPreview } from "./gl/motionPreview";
 import { ABOUT_HREF, LOGO_MARK, NAV_SITE, TAGLINE } from "@/lib/site";
 
 const SliderView = dynamic(() => import("./gl/SliderView"), { ssr: false });
@@ -307,19 +307,15 @@ export default function Landing() {
         return;
       }
       const v = viewRef.current;
-      let moved = false;
-      if (v === "slider") {
-        if (e.key === "ArrowRight") (slider.current?.stepBy(1), (moved = true));
-        else if (e.key === "ArrowLeft") (slider.current?.stepBy(-1), (moved = true));
-      } else if (v === "list") {
-        if (e.key === "ArrowDown") (list.current?.stepBy(1), (moved = true));
-        else if (e.key === "ArrowUp") (list.current?.stepBy(-1), (moved = true));
-      } else if (v === "grid") {
-        if (e.key === "ArrowRight") (grid.current?.stepBy(1, 0), (moved = true));
-        else if (e.key === "ArrowLeft") (grid.current?.stepBy(-1, 0), (moved = true));
-        else if (e.key === "ArrowDown") (grid.current?.stepBy(0, 1), (moved = true));
-        else if (e.key === "ArrowUp") (grid.current?.stepBy(0, -1), (moved = true));
-      }
+      const step: Record<string, (() => void) | undefined> =
+        v === "slider"
+          ? { ArrowRight: () => slider.current?.stepBy(1), ArrowLeft: () => slider.current?.stepBy(-1) }
+          : v === "list"
+            ? { ArrowDown: () => list.current?.stepBy(1), ArrowUp: () => list.current?.stepBy(-1) }
+            : { ArrowRight: () => grid.current?.stepBy(1, 0), ArrowLeft: () => grid.current?.stepBy(-1, 0), ArrowDown: () => grid.current?.stepBy(0, 1), ArrowUp: () => grid.current?.stepBy(0, -1) };
+      const fn = step[e.key];
+      const moved = !!fn;
+      fn?.();
       if (moved) {
         e.preventDefault();
         playTick();

@@ -1,0 +1,298 @@
+{
+ "landing": {
+  "loaderTitleVisible": "1",
+  "loaderReadyMs": 3389,
+  "pct": "100%",
+  "landingClass": "landing view-slider chrome-slider is-ready",
+  "loaderGone": true,
+  "meta": [
+   "01.",
+   "TotalSports Women's Race",
+   "stills[9]",
+   "Events"
+  ],
+  "metaOpacityInSlider": "matrix(1, 0, 0, 1, 0, 39.9094)",
+  "tickName": [
+   "TotalSports Women's Race"
+  ],
+  "canvas": [
+   1440,
+   900,
+   "three.js r185"
+  ],
+  "frameloop": "never",
+  "chromeText": [
+   "FF®",
+   "documenting emotion,",
+   "movement and meaning.",
+   "works(21)",
+   "stills(13)",
+   "motion(8)",
+   "About",
+   "contact",
+   "slider",
+   "grid",
+   "list",
+   "fisheye:[off]",
+   "sound:[off]",
+   "gestures:",
+   "[off]"
+  ],
+  "toggleCaretX": 670,
+  "navCaretX": 1084,
+  "metaAfterRight": [
+   "02.",
+   "Netflix @ Comic Con CPT"
+  ],
+  "metaAfterLeft": "01.",
+  "metaAfterWheel": "01.",
+  "metaAfterDrag": "04.",
+  "morphClass": "landing view-slider chrome-slider is-ready",
+  "gridClass": "landing view-grid chrome-slider is-ready is-morphing",
+  "gridTickers": [
+   19,
+   19,
+   13,
+   13
+  ],
+  "metaTransformInGrid": "matrix(1, 0, 0, 1, 0, 39.9094)",
+  "gridToggleCaretX": 720,
+  "gridMetaAfterDown": "04.",
+  "listClass": "landing view-grid chrome-grid is-ready is-morphing",
+  "listRails": 26,
+  "listCaretX": 347,
+  "listMetaAfterDown": "04.",
+  "sliderAgain": "landing view-list chrome-list is-ready",
+  "filterMeta": [
+   "01.",
+   "stills[9]"
+  ],
+  "filterCurrent": "stills(13)stills(13)",
+  "filterNavCaretX": 1084,
+  "tickTypes": [
+   "motion",
+   "stills"
+  ],
+  "motionMeta": "motion[01:25]",
+  "previewVideo": {
+   "paused": true,
+   "t": 17,
+   "src": "XYuPYKg02qx12RwoihYglq00kHFCSu"
+  },
+  "worksMeta": "01.",
+  "lens": [
+   "0.003273",
+   true,
+   "true",
+   "fisheye:[on]"
+  ],
+  "lensOff": [
+   "0",
+   false
+  ],
+  "sound": "sound:[on]",
+  "irisDuringNav": "block",
+  "projectUrl": "/project/totalsports-womens-race",
+  "irisAfter": "block",
+  "detailChromeOpacity": "0.904027",
+  "detailTitle": "TotalSports Women's Race"
+ },
+ "project-stills": {
+  "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.detail-nav .nav-works-row a')\n"
+ },
+ "project-motion": {
+  "detailClass": "detail is-motion is-paused",
+  "count": [
+   "00:00",
+   "01:25"
+  ],
+  "video": {
+   "paused": true,
+   "muted": true,
+   "poster": true,
+   "ready": 4
+  },
+  "playHint": [
+   "Click to play",
+   "detail-play-hint cursor-hint is-visible"
+  ],
+  "fullscreenBtn": "fullscreen:[off]",
+  "fullscreen": "detail is-motion is-fullscreen",
+  "fullscreenOff": "detail is-motion",
+  "endCard": [
+   "@studio88_branded x @adidasza",
+   "detail-next detail-next-end"
+  ],
+  "aboutUrl": "/about",
+  "studioReady": "studio is-iris-nav is-ready"
+ },
+ "about": {
+  "ready": "studio is-ready",
+  "headline": [
+   [
+    "multi-award winning",
+    "matrix(1, 0, 0, 1, 0, 0)"
+   ],
+   [
+    "production studio.",
+    "matrix(1, 0, 0, 1, 0, 0)"
+   ],
+   [
+    "Since ©2016",
+    "matrix(1, 0, 0, 1, 0, 0)"
+   ]
+  ],
+  "cols": [
+   [
+    40,
+    560,
+    425
+   ],
+   [
+    501,
+    560,
+    322
+   ],
+   [
+    847,
+    560,
+    553
+   ]
+  ],
+  "footer": [
+   [
+    "studio-copy",
+    40,
+    849
+   ],
+   [
+    "studio-credit",
+    105,
+    849
+   ],
+   [
+    "studio-socials",
+    0,
+    0
+   ],
+   [
+    "studio-social",
+    501,
+    849
+   ],
+   [
+    "studio-social",
+    615,
+    849
+   ],
+   [
+    "studio-social",
+    731,
+    849
+   ],
+   [
+    "studio-social",
+    847,
+    849
+   ],
+   [
+    "sound-toggle",
+    1106,
+    849
+   ],
+   [
+    "hand-control",
+    1277,
+    849
+   ],
+   [
+    "hand-preview-hint",
+    32,
+    849
+   ]
+  ],
+  "navCaretX": 1223,
+  "dropOpen": [
+   "60.48px",
+   "matrix(1, 0, 0, 1, 0, 0)"
+  ],
+  "homeUrl": "/",
+  "homeFilter": "stills(13)stills(13)",
+  "homeMetaType": "stills[9]"
+ },
+ "notfound": {
+  "status": 404,
+  "text": [
+   "404",
+   "The page you are looking for doesn't exist.",
+   "go homego home"
+  ],
+  "ready": "notfound is-ready",
+  "lineTransform": "matrix(1, 0, 0, 1, 0, 0)"
+ },
+ "mobile": {
+  "landingClass": "landing view-slider chrome-slider is-ready",
+  "dial": [
+   "block",
+   "TotalSports Women's Race",
+   "translateX(-50%) rotate(0deg)",
+   1
+  ],
+  "hidden": [
+   "none",
+   "none",
+   "none",
+   "none",
+   "absent"
+  ],
+  "menuBtn": "menu",
+  "menuOpen": [
+   "landing view-slider chrome-slider is-ready is-menu-open",
+   [
+    "works(21)",
+    "stills(13)",
+    "motion(8)",
+    "About",
+    "contact"
+   ]
+  ],
+  "afterFilter": [
+   "landing view-slider chrome-slider is-ready",
+   "motion[01:25]"
+  ],
+  "dialAfterDrag": "@studio88_branded x @adidasza",
+  "projectMenu": [
+   "none",
+   "block"
+  ],
+  "stripInset": [
+   96,
+   724
+  ],
+  "aboutStack": [
+   [
+    82,
+    121
+   ],
+   [
+    458,
+    79
+   ],
+   [
+    572,
+    92
+   ],
+   [
+    697,
+    64
+   ],
+   [
+    803,
+    17
+   ]
+  ]
+ },
+ "errors": [
+  "notfound: console Failed to load resource: the server responded with a status of 404 (Not Found)"
+ ]
+}
