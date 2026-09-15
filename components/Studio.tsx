@@ -3,6 +3,7 @@
 // rail, footer with socials (email copies to clipboard) + sound + gestures.
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore, type MouseEvent as ReactMouseEvent } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import dynamic from "next/dynamic";
 import gsap from "gsap";
 import HapticSwitch from "./HapticSwitch";
@@ -242,7 +243,7 @@ export default function Studio() {
   return (
     <div className={`studio${irisNav ? " is-iris-nav" : ""}${ready ? " is-ready" : ""}${gesturesOn ? " gestures-on" : ""}${menuOpen ? " is-menu-open" : ""}`} ref={root}>
       <div className="studio-bg" aria-hidden="true">
-        <img alt="" src="/images/studio-hero.jpg" sizes="100vw" style={{ position: "absolute", height: "100%", width: "100%", left: 0, top: 0, right: 0, bottom: 0, color: "transparent" }} />
+        <Image src="/images/studio-hero.jpg" alt="" fill priority sizes="100vw" />
       </div>
       <header className="chrome studio-chrome" data-reveal="chrome">
         <p className="logo">
