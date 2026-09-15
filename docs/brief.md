@@ -69,6 +69,6 @@
 ## Gates
 
 - [x] **Gate 1** — spec + token set (Fakhrul said "no questions asked, proceed"; recorded, not blocking)
-- [ ] **Gate 2** — one complete surface (landing slider) desktop + mobile
-- [ ] **Gate 3** — every route working end to end
-- [ ] **Gate 4** — full verification pass, parity ledger, honest close
+- [x] **Gate 2** — landing slider at 1440/390: diff 0.22 / 0.06 mean vs reference
+- [x] **Gate 3** — every route + flow verified against the reference with `tools/verify.mjs`
+- [x] **Gate 4** — `docs/qa-log.md`, `docs/parity.md` (31/34 complete; booth partial, CMS + Mux omitted by brief)

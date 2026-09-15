@@ -80,3 +80,11 @@ plays video headlessly.
 `next build` clean (30 static pages incl. 21 projects, sitemap, robots, OG image); tsc clean;
 eslint 0 errors (compiler-style ref/effect rules disabled by config — the gallery is
 imperative by design, as the reference is).
+
+## visual pass 3 (mid-interaction + reduced motion)
+
+slider mid-drag (chrome dimmed to .25, "view project" caption) 15.6 — same state, tiles at a
+different drag offset · stills mid-drag 6.6 (same) · motion play hint 0.05 · motion idle after
+6s of playback 27.7 — same hidden-chrome state, different video frame · reduced-motion slider
+0.07 / about 0.16 / project 0.06 · `?filter=motion` deep link 42.8 in the batch capture (our
+filter fade caught at 0), re-probed: correct motion filter with the preview film playing.
