@@ -270,5 +270,13 @@
   "status": "improved",
   "evidence": "verify chromeText[0] FF\u00ae; loader renders 3 disclaimer lines (Chrome 2026-09-16); metadata description",
   "notes": "published as a demo recreation; all other copy and media credited to Remy Shoots"
+ },
+ {
+  "id": "DEP-01",
+  "surface": "site",
+  "feature": "Static export + Cloudflare Pages deploy (ff-shoots.pages.dev)",
+  "status": "done",
+  "evidence": "deploy.sh 2026-09-16: 386 files uploaded; live curl smoke test 200/404 on every route class",
+  "notes": "direct upload; push \u2260 deploy"
  }
 ]

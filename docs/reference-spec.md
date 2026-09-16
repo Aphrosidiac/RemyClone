@@ -160,6 +160,10 @@ page, JSON-LD Organization. robots allows all except /api/. Sitemap lists /, /ab
 
 ## 10. Performance `[observed]`
 
+Ours is a full static export (`output: "export"`, 21 SSG project pages, `404.html`) served from
+Cloudflare Pages with immutable caching on `/videos`, `/images/projects`, `/fonts`. Pages caps
+files at 25 MiB, so the 720p renditions are what ship (one re-encoded to 20.7 MB).
+
 Static-first SSR shell (chrome + loader render server-side; gallery bails to CSR). Fonts
 preloaded (2 woff2). Images: 1600w webp q80 via proxy (we serve the same bytes locally).
 Videos: HLS 1080p; ours: mp4 (see brief). WebGL canvas dpr [1,2], frameloop `never` when idle

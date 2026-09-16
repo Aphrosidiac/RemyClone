@@ -8,10 +8,14 @@
 Next.js 16 + React 19 + three r185 / R3F 9 + GSAP + MediaPipe, rebuilt behaviour-for-behaviour
 from the public site (see `docs/reference-spec.md` for what was measured).
 
+Live demo: **https://ff-shoots.pages.dev**
+
 ```bash
 npm install
-npm run dev        # http://localhost:3150
-npm run build && npm start
+npm run dev              # http://localhost:3150
+npm run build            # static export → out/
+npm run deploy           # upload out/ to Cloudflare Pages (needs the FF .env; see scripts/deploy.sh)
+npm run deploy:preview   # same build on a preview branch, production untouched
 ```
 
 - `docs/brief.md` — scope, identity, what is deliberately not built

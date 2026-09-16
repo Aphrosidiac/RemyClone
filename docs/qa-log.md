@@ -95,3 +95,12 @@ Loader copy replaced by a three-line ownership disclaimer (lib/site.ts LOADER_CO
 descriptions now say "demo recreation … belongs to Remy Shoots". Rendered in Chrome at
 1568 wide: three centred lines under the title, reveal masks per line. Loader diff vs the
 reference is now by design (title + copy).
+
+## 2026-09-16 — deploy
+
+Static export built and uploaded to Cloudflare Pages `ff-shoots` (386 files). Live smoke test:
+`/`, `/about`, `/project/netflix-comic-con-cpt` 200 html; `/nope` 404; sitemap/robots/OG 200;
+an mp4 and `hand_landmarker.task` 200; disclaimer present in the served HTML. Three things the
+deploy taught: sitemap/robots routes need `export const dynamic = "force-static"` under
+`output: "export"`; Pages rejects files over 25 MiB (one film re-encoded 26.7 → 20.7 MB); and
+`next build` hangs on `.next/lock` if the dev server is still running.

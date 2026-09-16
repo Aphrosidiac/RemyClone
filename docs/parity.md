@@ -1,6 +1,6 @@
 # Parity ledger
 
-**31/34 complete** — 30 done, 1 partial, 2 omitted, 1 improved
+**32/35 complete** — 31 done, 1 partial, 2 omitted, 1 improved
 
 ## 404
 
@@ -55,6 +55,7 @@
 | ID | Feature | Status | Evidence | Notes |
 | --- | --- | --- | --- | --- |
 | A11Y-01 | prefers-reduced-motion honoured (entrances, rolls, view transitions, booth, hand) | done | same media queries as reference CSS + JS guards; not captured |  |
+| DEP-01 | Static export + Cloudflare Pages deploy (ff-shoots.pages.dev) | done | deploy.sh 2026-09-16: 386 files uploaded; live curl smoke test 200/404 on every route class | direct upload; push ≠ deploy |
 | DEV-01 | Brand: RS→FF, RemyShoots→FF Dev Studio, contact, socials, credit; loader copy = ownership disclaimer | improved | verify chromeText[0] FF®; loader renders 3 disclaimer lines (Chrome 2026-09-16); metadata description | published as a demo recreation; all other copy and media credited to Remy Shoots |
 | OMIT-01 | Sanity CMS + /api/sanity-image proxy | omitted | per brief | static data file |
 | OMIT-02 | Mux streaming / hls.js / mux-data, Vercel analytics | omitted | per brief | self-hosted mp4 |

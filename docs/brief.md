@@ -52,13 +52,13 @@
   chunk contents: `data-engine="three.js r185"`, R3F `__r3f`, GSAP, mediapipe HandLandmarker).
 - **Auth:** none. **Multi-tenancy:** none. **Data volume:** 21 projects, 136 images, 8 videos.
 - **Integrations that must exist:** none.
-- **Hosting target:** public demo (repo github.com/Aphrosidiac/RemyClone, public); hosting TBD. **Domain:** n/a.
+- **Hosting target:** LIVE at https://ff-shoots.pages.dev — Cloudflare Pages project `ff-shoots`, direct upload via `npm run deploy` (personal FF account, same as ff-search). Repo github.com/Aphrosidiac/RemyClone (public). **Domain:** none yet.
 
 ## Environment and safety
 
 - **Is this environment safe to test in freely?** yes — local dev only.
 - **Actions requiring confirmation before running:** any deploy.
-- **Deployment:** none planned; approval required before any deploy; push to GitHub first.
+- **Deployment:** `npm run deploy` (production) / `npm run deploy:preview`; pushing to GitHub deploys nothing. Push first, then deploy.
 
 ## Deliverables
 
