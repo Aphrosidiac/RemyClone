@@ -1,7 +1,12 @@
-# FF Shoots
+# FF Shoots — a demo recreation of remyshoots.co.za
 
-FF Dev Studio's portfolio site — a 1:1 rebuild of [remyshoots.co.za](https://www.remyshoots.co.za/)
-under our own mark. Next.js 16 + React 19 + three r185 / R3F 9 + GSAP + MediaPipe.
+> **Disclaimer.** This is a recreation of [remyshoots.co.za](https://www.remyshoots.co.za/),
+> built by FF Dev Studio as a technical demo. All photography, films, client marks and copy
+> belong to Remy Shoots. It is not a live site and is not affiliated with or endorsed by
+> Remy Shoots. The same disclaimer is shown on the entry screen of the site itself.
+
+Next.js 16 + React 19 + three r185 / R3F 9 + GSAP + MediaPipe, rebuilt behaviour-for-behaviour
+from the public site (see `docs/reference-spec.md` for what was measured).
 
 ```bash
 npm install
@@ -16,4 +21,4 @@ npm run build && npm start
   `verify.mjs` (flow verifier, run on both sites), `diff.py` (numeric screenshot diff),
   `og.mjs` / `icons.mjs` (brand images)
 
-Imagery and films are the reference's, reused for this local test only (see brief).
+Imagery and films are Remy Shoots' — shown here under the disclaimer above, for the demo only.

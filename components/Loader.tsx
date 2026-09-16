@@ -1,7 +1,7 @@
 "use client";
 // Entry gate (module 63909 / Loader): preloads every cover image, drives the percentage and
 // the tick strip, then asks whether to enter with sound.
-import { useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import HapticSwitch from "./HapticSwitch";
 import Roll from "./Roll";
@@ -139,13 +139,14 @@ export default function Loader({ onEnter, onDone, preloadViews }: { onEnter: (wi
           </span>
         </h1>
         <p className="loader-copy">
-          <span className="reveal-mask">
-            <span className="loader-line">{LOADER_COPY[0]}</span>
-          </span>
-          <br />
-          <span className="reveal-mask">
-            <span className="loader-line">{LOADER_COPY[1]}</span>
-          </span>
+          {LOADER_COPY.map((line, i) => (
+            <Fragment key={line}>
+              {i > 0 && <br />}
+              <span className="reveal-mask">
+                <span className="loader-line">{line}</span>
+              </span>
+            </Fragment>
+          ))}
         </p>
         <div className={`loader-actions${ready ? " is-ready" : ""}`}>
           <button type="button" className="loader-enter" onPointerEnter={preloadViews} onClick={() => enter(true)}>

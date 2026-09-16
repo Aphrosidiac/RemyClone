@@ -174,11 +174,13 @@ rolls, view transitions, booth. Decorative imgs alt="". Haptic checkboxes aria-h
 
 ## 12. Provenance
 
-Taken from the reference and shipping in this local build (per Fakhrul): 136 project webp,
+This build is published as a **demo recreation with a disclaimer** (the loader copy, read
+before entering, and the site description): all assets and copy remain Remy Shoots' property,
+the site is not live and not affiliated. Taken from the reference and shipping in the demo: 136 project webp,
 8 Mux films (re-muxed to mp4), Mux poster thumbnails, studio hero jpg, 14 client logo svgs,
 hand/cursor/playhead svgs, tick.mp3, 3 gesture tutorial mp4, carousel fallbacks, mediapipe
 wasm + model, favicon/apple-icon/og png. Replaced: wordmark RS→FF, RemyShoots→FF Dev Studio,
-contact email, social hrefs, site credit, JSON-LD identity. Copy otherwise unchanged (local
-test; to be replaced before launch). Code: behaviour re-implemented in TypeScript from the
+contact email, social hrefs, site credit, JSON-LD identity, loader copy (now the disclaimer),
+meta descriptions. Copy otherwise unchanged and credited to Remy Shoots by the disclaimer. Code: behaviour re-implemented in TypeScript from the
 shipped chunks; the stylesheet is reproduced verbatim where it is pure layout (class names kept
 so the token diff is 1:1).

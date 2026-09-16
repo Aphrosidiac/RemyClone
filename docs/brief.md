@@ -5,8 +5,10 @@
 - **Product name:** FF Shoots — the FF Dev Studio portfolio site (working repo name `RemyClone`)
 - **Owner / brand:** FF Dev Studio (Fakhrul)
 - **Whose site is the reference?** a third party's (Remy Shoots, Johannesburg production studio).
-  Per Fakhrul's explicit instruction for this local test: take and reuse their images and video
-  as-is; they will be swapped before anything goes live. Only the branding changes.
+  Per Fakhrul's explicit instruction: this is a **demo recreation**, published as such — the entry
+  screen carries a full disclaimer that every photograph, film, client mark and line of copy
+  belongs to Remy Shoots and that the site is not live and not affiliated. Only the wordmark and
+  contact identity are ours. It will not be presented as a live studio site.
 - **Existing brand assets supplied?** none for this build — wordmark is the two-letter mark "FF®"
   set in the reference's own logo style (Helvetica Neue / Inter 600).
 - **Tone of the product voice:** terse, technical, uppercase mono — unchanged from the reference.
@@ -39,7 +41,7 @@
     are served from our origin.
   - Mux streaming / hls.js / mux-data analytics — videos are self-hosted mp4 from our origin.
   - Vercel Analytics / Speed Insights.
-- **Parity target:** feature parity; brand strings swapped (RS → FF, RemyShoots → FF Dev Studio).
+- **Parity target:** feature parity; brand strings swapped (RS → FF, RemyShoots → FF Dev Studio); loader copy replaced by the disclaimer.
 - **Deadline or demo date, if any:** none stated.
 
 ## Technical
@@ -50,7 +52,7 @@
   chunk contents: `data-engine="three.js r185"`, R3F `__r3f`, GSAP, mediapipe HandLandmarker).
 - **Auth:** none. **Multi-tenancy:** none. **Data volume:** 21 projects, 136 images, 8 videos.
 - **Integrations that must exist:** none.
-- **Hosting target:** local only for now. **Domain:** n/a.
+- **Hosting target:** public demo (repo github.com/Aphrosidiac/RemyClone, public); hosting TBD. **Domain:** n/a.
 
 ## Environment and safety
 

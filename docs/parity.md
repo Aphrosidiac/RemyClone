@@ -55,7 +55,7 @@
 | ID | Feature | Status | Evidence | Notes |
 | --- | --- | --- | --- | --- |
 | A11Y-01 | prefers-reduced-motion honoured (entrances, rolls, view transitions, booth, hand) | done | same media queries as reference CSS + JS guards; not captured |  |
-| DEV-01 | Brand: RS→FF, RemyShoots→FF Dev Studio, contact email, socials, site credit | improved | verify chromeText[0] FF®; icons/OG; lib/site.ts | copy otherwise unchanged for this local test |
+| DEV-01 | Brand: RS→FF, RemyShoots→FF Dev Studio, contact, socials, credit; loader copy = ownership disclaimer | improved | verify chromeText[0] FF®; loader renders 3 disclaimer lines (Chrome 2026-09-16); metadata description | published as a demo recreation; all other copy and media credited to Remy Shoots |
 | OMIT-01 | Sanity CMS + /api/sanity-image proxy | omitted | per brief | static data file |
 | OMIT-02 | Mux streaming / hls.js / mux-data, Vercel analytics | omitted | per brief | self-hosted mp4 |
 | SEO-01 | Metadata, OG card, favicon/apple icon, sitemap, robots, JSON-LD | done | next build lists /sitemap.xml /robots.txt /opengraph-image; icons rendered with site fonts | OG rendered as static PNG (Satori rejected the subset woff2/ttf) |

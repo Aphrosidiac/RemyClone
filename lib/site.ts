@@ -3,7 +3,15 @@ export const SITE_NAME = "FF Dev Studio";
 export const LOGO_MARK = "FF";
 export const CONTACT_EMAIL = "hello@ffdev.studio";
 export const TAGLINE = "documenting emotion, movement and meaning.";
-export const LOADER_COPY = ["a boutique production studio with", "unyielding passion for storytelling."];
+// Shown on the entry screen. This build is a demo recreation, so the disclaimer sits where the
+// reference had its studio line — every visitor reads it before entering.
+export const LOADER_COPY = [
+  "this website is a recreation of remyshoots.co.za, built by FF Dev Studio as a demo.",
+  "all photography, films, client marks and copy belong to Remy Shoots, not to us.",
+  "not a live site and not affiliated with or endorsed by Remy Shoots.",
+];
+export const SITE_DESCRIPTION =
+  "Demo recreation of remyshoots.co.za by FF Dev Studio. All photography, films and marks belong to Remy Shoots; not affiliated, not a live site.";
 export const SITE_URL = "http://localhost:3150";
 
 export const ABOUT_HREF = "/about";

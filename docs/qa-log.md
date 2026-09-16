@@ -88,3 +88,10 @@ different drag offset · stills mid-drag 6.6 (same) · motion play hint 0.05 · 
 6s of playback 27.7 — same hidden-chrome state, different video frame · reduced-motion slider
 0.07 / about 0.16 / project 0.06 · `?filter=motion` deep link 42.8 in the batch capture (our
 filter fade caught at 0), re-probed: correct motion filter with the preview film playing.
+
+## 2026-09-16 — disclaimer
+
+Loader copy replaced by a three-line ownership disclaimer (lib/site.ts LOADER_COPY); meta
+descriptions now say "demo recreation … belongs to Remy Shoots". Rendered in Chrome at
+1568 wide: three centred lines under the title, reveal masks per line. Loader diff vs the
+reference is now by design (title + copy).
