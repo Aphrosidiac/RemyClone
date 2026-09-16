@@ -12,7 +12,7 @@ export const LOADER_COPY = [
 ];
 export const SITE_DESCRIPTION =
   "Demo recreation of remyshoots.co.za by FF Dev Studio. All photography, films and marks belong to Remy Shoots; not affiliated, not a live site.";
-export const SITE_URL = "http://localhost:3150";
+export const SITE_URL = "https://ff-shoots.pages.dev";
 
 export const ABOUT_HREF = "/about";
 export const NAV_SITE = [

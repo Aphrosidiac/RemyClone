@@ -4,6 +4,8 @@ import ProjectPage from "@/components/ProjectPage";
 import { projects } from "@/data/projects";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return projects.map((p) => ({ slug: p.slug }));
 }

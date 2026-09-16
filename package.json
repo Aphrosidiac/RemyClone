@@ -8,7 +8,9 @@
     "build": "next build",
     "start": "next start -p 3150",
     "lint": "eslint",
-    "capture": "node tools/capture.mjs"
+    "capture": "node tools/capture.mjs",
+    "deploy": "./scripts/deploy.sh",
+    "deploy:preview": "FF_BRANCH=preview ./scripts/deploy.sh"
   },
   "dependencies": {
     "@mediapipe/tasks-vision": "1.0.1",
